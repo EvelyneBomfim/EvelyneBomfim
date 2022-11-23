@@ -1,39 +1,23 @@
-## Welcome to my GitHub  :tada:
-
 <table align="right">
- <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
- <tr><td><a href="README_pt-br.md"><img src="images/br-flag.png" height="13"> Português</a></td></tr>
+ <tr><td><a href="README.md"><img height="13" src="images/usa-flag.png"> English</a></td></tr>
+ <tr><td><a href="README_pt-br.md"><img height="13" src="images/br-flag.png"> Português</a></td></tr>
 </table>
+
+## Welcome to my GitHub <img height="30" src="/images/wave.gif"/>
+
+<details>
+<summary>
   
-<!--
-**EvelyneBomfim/EvelyneBomfim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ### :woman_technologist: About me
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-### Hi there !!! 👋
-
-<!--
-## :woman_technologist: About Me
-
-:technologist: &nbsp;Currently working as a Tech Lead at [UNESP](https://unesp.br/) (São Paulo State University) \
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for science and innovation.\
-&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving and daily routines automation.\
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently researching software architecture, inertial sensors, and sensor fusion.\
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2004 with 10+ years of experience in enterprise wide software development.\
-&nbsp;&nbsp;&nbsp;:family_man_woman_girl_girl: &nbsp;Living in Brazil with my lovely wife :two_hearts:, Kali :service_dog:, and Maia :service_dog: .
--->
+</summary>
+  
+:smile: Hiii ! I'm Evelyne !  \
+:books: I have a degree in Computer Science, currently studying Data Science and Analytics.\
+:heart: Always curious, passionate about technology and innovation. \
+:railway_track: My biggest motivation is helping people through technology. \
+:pushpin: Turning data into information.
+  
 
 <br>
 <p align="center">
@@ -41,15 +25,31 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/evelyne-bomfim/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </p>
   
+</details>
+
+### :computer: Technologies
+![Python](https://img.shields.io/badge/-Python-232F3E?style=flat-square&logo=Python)
+![Scikit Learn](https://img.shields.io/badge/-Sklearn-232F3E?style=flat-square&logo=scikit-learn)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Google Colab](https://img.shields.io/badge/-Google%20Colab-181717?style=flat-square&logo=google-colab)
+![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat-square&logo=power-bi)
+
+<details>
+<summary>
   
-## :bar_chart: GitHub Statistics
+  ### :bar_chart: GitHub Statistics
+  
+</summary>
   
 <p align="center">
  <img height="170" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=EvelyneBomfim&hide_border=true&theme=tokyonight"/>
 </p>
   
 <p align="center">
-  <img height="130" width="500" src="https://github-readme-stats.vercel.app/api?username=EvelyneBomfim&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=tokyonight" />
+  <img height="130" width="450" src="https://github-readme-stats.vercel.app/api?username=EvelyneBomfim&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=tokyonight" />
   <img height="130" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvelyneBomfim&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
